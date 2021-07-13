@@ -6,6 +6,6 @@ i am asem zedan i am 24 years old i am study software engineering at luminus col
 
 Name | Link
 ------------ | -------------
-growth mind set |[go to] (https://asemzedan1.github.io/reading-note/growthmindset)
-mark dawn |[go to] (https://asemzedan1.github.io/reading-note/markdawn)
+growth mind set |[go to](https://asemzedan1.github.io/reading-note/growthmindset)
+mark dawn |[go to](https://asemzedan1.github.io/reading-note/markdawn)
 
