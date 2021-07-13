@@ -1,7 +1,4 @@
 #growth mindset : 
-
-![growth mindset](https://onewiththewater.org/owtwwp/wp-content/uploads/2018/08/dreamstime_m_68252619-282x300.jpg)
-
  
 
 ### What is a growth mindset?
@@ -16,3 +13,7 @@
 2. being competitive many times in most of topics you will face people who are better, would you rather give up ? or grow up to their level? going to their level and winning.
 3. always be open to changes , you have your own *way / style* of doing things , but there are mistakes , thats where you should be open to learn from them and develop your ways and methods to be able to compete on higher levels.
 4. being perfectionist means you can't accept things if they are not perfect, your ways and methods might be wrong or have loopholes, thats where you put the effort to overcome the challanges and walls in your way to perfect your project or your work.
+
+
+
+
